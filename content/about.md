@@ -1,1 +1,1 @@
-This will be for a brief personal bio.
+My name is Shawn Morrison and I have been playing guitar for over 20 years. I am not the best at playing nor am I consistent. Music and instruments have always fascinated me however. Thus, I decided this topic would be interesting to me. 
