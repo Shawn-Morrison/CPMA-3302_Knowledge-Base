@@ -30,4 +30,4 @@ A standard guitar is built from several core components:
 3. Neck carving and fret installation
 4. Finishing and painting
 
-> Guitar construction is a blend of craftsmanship and precision engineering, where small adjustments in build can dramatically change playability and tone.
+> Guitar construction is a blend of craftsmanship and precision engineering, where small adjustments in build can dramatically change playability and tone. Construction can play a role in the [[maintenance]] of a guitar as well.

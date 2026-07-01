@@ -18,7 +18,7 @@ Different woods shape the sound of [[Acoustic/index|Acoustic]] guitars in notice
 
 #### Example:
 ![Gibson Hummingbird](https://guitargeargiveaway.co.uk/wp-content/uploads/2025/07/Gibson-Hummingbird-Acoustic-Guitar-in-Antique-Natural-03-scaled.jpg "Gibson Hummingbird")
-
+*Gibson Hummingbird*
 ## Choose wisely
 
 > The choice of wood affects not just how a guitar looks, but how it vibrates and projects sound. Even small changes in materials can significantly change tone and sustain.
