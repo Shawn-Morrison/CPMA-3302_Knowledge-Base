@@ -1,6 +1,6 @@
-# Guitar Maintenance
+# Acoustic Guitar Maintenance
 
-Proper maintenance keeps guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[construction]], [[materials]] or even the [[style]] of music played.
+Proper maintenance keeps [[Acoustic/index|Acoustic]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[construction]], [[materials]] or even the [[style]] of music played.
 
 ## Basic Maintenance Tasks
 
@@ -11,7 +11,7 @@ Regular care helps prevent damage and wear.
 - Wiping down the body after use
 - Checking tuning stability
 
-> Most guitar damage happens slowly over time, and consistent maintenance is far cheaper than major repairs or replacements.
+> Most guitar damage happens slowly over time, and consistent maintenance is far cheaper than major repairs or replacements. Some guitars have a high [[price]], so it's important to protect your investment.
 
 ## Environmental Care
 

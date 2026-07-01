@@ -1,6 +1,6 @@
 # Materials Used in Acoustic Guitars
 
-Guitars are built from a combination of woods and manufactured components that directly affect look, tone, weight, playability, and durability. Musicians will often pick an [[Acoustic/index|Acoustic]] guitar specifically because specific materials produce a better sound for the [[style]] they need.
+Guitars are built from a combination of woods and manufactured components that directly affect look, tone, weight, playability, and durability. Musicians will often pick an [[Acoustic/index|Acoustic]] guitar specifically because specific [[materials]] produce a better sound for the [[style]] they need.
 
 ## Common Tonewoods
 
@@ -14,7 +14,7 @@ Different woods shape the sound of [[Acoustic/index|Acoustic]] guitars in notice
 ### Choices for Tops
 
 - Solid wood tops for resonance
-- Laminated woods for durability and cost reduction
+- Laminated [[construction]] for durability, lower [[maintenance]], and [[price]] reduction
 
 #### Example:
 ![Gibson Hummingbird](https://guitargeargiveaway.co.uk/wp-content/uploads/2025/07/Gibson-Hummingbird-Acoustic-Guitar-in-Antique-Natural-03-scaled.jpg "Gibson Hummingbird")

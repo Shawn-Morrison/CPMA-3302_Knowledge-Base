@@ -1,10 +1,10 @@
 # Acoustic Guitar Construction
 
-Guitar construction refers to how the [[materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[style]] of music the guitar is used for.
+[[Acoustic/index|Acoustic]] Guitar construction refers to how the [[materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[style]] of music the guitar is used for. However, construction is not the only factor in [[price]].
 
-## Main Parts of a Guitar
+## Main Parts of an Acoustic Guitar
 
-A standard guitar is built from several core components:
+A standard acoustic guitar is built from several core components:
 
 - Headstock
 - Neck

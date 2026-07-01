@@ -1,6 +1,6 @@
 # Acoustic Guitar Pricing
 
-Guitar prices vary widely depending on [[materials]], brand, and [[construction]] build quality. An artist may choose a more expensive option because of the [[style]] of music. Cost has very little to do with [[maintenance]], although with less expensive models there may only be a marginal difference in performance when maintained.
+[[Acoustic/index|Acoustic]] Guitar prices vary widely depending on [[materials]], brand, and [[construction]] build quality. An artist may choose a more expensive option because of the [[style]] of music. Cost has very little to do with [[maintenance]], although with less expensive models there may only be a marginal difference in performance when maintained.
 
 ## Price Categories
 
