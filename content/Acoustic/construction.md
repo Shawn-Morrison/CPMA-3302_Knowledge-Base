@@ -19,7 +19,7 @@ A standard acoustic guitar is built from several core components:
 - Bracing system inside the top
 
 #### Cutaway Example:
-![Cutaway](https://tonetopics.com/wp-content/uploads/2021/03/copy-of-copy-of-copy-of-copy-o-5.jpg "Cutaway vs Non Cutaway)
+![Cutaway](https://tonetopics.com/wp-content/uploads/2021/03/copy-of-copy-of-copy-of-copy-o-5.jpg "Cutaway vs Non Cutaway")
 *Cutaways help musicians get access to higher notes more easily*
 ## Assembly Process
 
