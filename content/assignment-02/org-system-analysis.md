@@ -1,6 +1,6 @@
 # Analyzing an Organizing System:
 
-I have chosen [PokemonROM]([Pokemon ROMs Download - Pokemon Rom](https://pokemonrom.net/)) as my Organizing system for this assignment. I discovered this digital resource today when a company advertised for a phone case that was designed to help simulate playing a Game Boy by covering your mobile phone with a case that resembled one.
+I have chosen [PokemonROM](https://pokemonrom.net/) as my Organizing system for this assignment. I discovered this digital resource today when a company advertised for a phone case that was designed to help simulate playing a Game Boy by covering your mobile phone with a case that resembled one.
 
 This online website is a digital collection of Pokémon game files for download for use in emulators. The files will allow you to play classic games of your past without having to purchase entire systems or games. The site's organization is designed to help users efficiently discover and locate the content that best matches their interests.
 
