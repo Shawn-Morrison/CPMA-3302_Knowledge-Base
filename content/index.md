@@ -12,5 +12,7 @@ This knowledge base will be about guitars. How many different types I am familia
 * [[Classical/index|Classical]]
 * [[Semi-Hollow/index|Semi-Hollow]]
 
+***Looking for Assignment 02?***
+[Open Assignment 02](file:///C:\Users\smorr\OneDrive\Documents\GitHub\CPMA-3302_Knowledge-Base\assignment-02\org-system-analysis.md) 
 
 
