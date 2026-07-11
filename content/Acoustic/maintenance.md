@@ -20,6 +20,8 @@ Regular care helps prevent damage and wear.
 - Avoid extreme heat or cold
 - Keep humidity stable to prevent wood cracking
 
+![[Guitar-Case-Humidifier.jpg | 300]]
+
 ### Storage Tips
 
 - Use a hard case for long-term storage

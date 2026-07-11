@@ -16,5 +16,5 @@ They can also be used to create ***unplugged*** versions of really any type of m
 
 ## Notable unplugged:
 * Hey Ya! - **Obadiah Parker** - *Hip-Hop*
-![Obadiah Parker: The Tip Jar Volume One](/Parker.jpeg "Obadiah Parker: The Tip Jar Volume One") 
+![Obadiah Parker: The Tip Jar Volume One](Parker.jpeg "Obadiah Parker: The Tip Jar Volume One") 
 *Obadiah Parker: the tip jar volume one - released in 2008*

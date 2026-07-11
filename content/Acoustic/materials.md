@@ -22,3 +22,6 @@ Different woods shape the sound of [[Acoustic/index|Acoustic]] guitars in notice
 ## Choose wisely
 
 > The choice of wood affects not just how a guitar looks, but how it vibrates and projects sound. Even small changes in materials can significantly change tone and sustain.
+
+#### Here is an article from Gibson Guitars about *Tonewoods*:
+![[Tonewood_ A Guitar Player’s Guide  - Gibson Gazette.pdf]]
