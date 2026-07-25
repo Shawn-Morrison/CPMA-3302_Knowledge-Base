@@ -1,6 +1,6 @@
 # Materials Used in Electric Guitars
 
-Electric guitars are built from a combination of woods, metals, and electronic components that affect tone, weight, and durability. Musicians often select an [[Electric/index|Electric]] guitar because certain [[Electric/materials|materials]] better suit their preferred [[Electric/style|style]].
+[[Electric/index|Electric]] guitars are built from a combination of woods, metals, and electronic components that affect tone, weight, and durability. Musicians often select an [[Electric/index|Electric]] guitar because certain [[Electric/materials|materials]] better suit their preferred [[Electric/style|style]].
 
 ## Common Body Woods
 

@@ -1,6 +1,6 @@
 # Styles of Music
 
-Electric guitars are among the most versatile instruments in modern music. The design of the [[Electric/construction|construction]], [[Electric/materials|materials]], and amplification system allows musicians to create a wide range of sounds.
+[[Electric/index|Electric]] guitars are among the most versatile instruments in modern music. The design of the [[Electric/construction|construction]], [[Electric/materials|materials]], and amplification system allows musicians to create a wide range of sounds.
 
 Common styles include:
 
