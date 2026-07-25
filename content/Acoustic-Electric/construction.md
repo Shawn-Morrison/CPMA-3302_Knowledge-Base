@@ -1,10 +1,10 @@
 # Acoustic-Electric Guitar Construction
 
-[[Acoustic-Electric/index|Acoustic-Electric]] Guitar construction refers to how the [[Acoustic-Electric/materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[Acoustic/style]] of music the guitar is used for. However, construction is not the only factor in [[Acoustic/price]].
+[[Acoustic-Electric/index|Acoustic-Electric]] Guitar construction refers to how the [[Acoustic-Electric/materials|materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[Acoustic-Electric/style|style]] of music the guitar is used for. However, construction is not the only factor in [[Acoustic-Electric/price|price]].
 
-## Main Parts of an Acoustic Guitar
+## Main Parts of an Acoustic-Electric Guitar
 
-A standard acoustic guitar is built from several core components:
+A standard Acoustic-Electric guitar is built from several core components:
 
 - Headstock
 - Neck
@@ -12,7 +12,14 @@ A standard acoustic guitar is built from several core components:
 - Body
 - Bridge
 
-## Specifics for Acoustic Guitars:
+Unlike a standard acoustic guitar, an acoustic-electric guitar can be amplified without placing a microphone in front of it, making it ideal for live performances and recording situations. Because of this, it also will have Electronic components:
+
+* Pickups
+* Preamp
+* Control Panel
+* Output Jack
+
+## Specifics for Acoustic-Electric Guitars:
 
 - Hollow body design (some may have a "cutaway")
 - Sound hole for resonance
