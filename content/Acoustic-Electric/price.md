@@ -1,37 +1,41 @@
-# Acoustic Guitar Pricing
+# Acoustic-Electric Guitar Pricing
 
-[[Acoustic/index|Acoustic]] Guitar prices vary widely depending on [[Acoustic/materials]], brand, and [[Acoustic/construction]] build quality. An artist may choose a more expensive option because of the [[Acoustic/style]] of music. Cost has very little to do with [[Acoustic/maintenance]], although with less expensive models there may only be a marginal difference in performance when maintained.
+[[Acoustic-Electric/index|Acoustic-Electric]] Guitar prices vary depending on [[Acoustic-Electric/materials|materials]], onboard electronics, and [[Acoustic-Electric/construction|construction]]. Additional electronics generally increase the [[Acoustic-Electric/price|price]] compared to a similar acoustic guitar.
 
 ## Price Categories
 
-### Beginner Level ($100–$300)
+### Beginner Level ($200–$500)
 
+- Basic pickup systems
 - Laminated woods
-- Mass-produced models
+- Entry-level electronics
 
-### Intermediate Level ($300–$1,000)
+### Intermediate Level ($500–$1,500)
 
 - Better tonewoods
-- Improved hardware
-- More consistent build quality
+- Improved electronics
+- More reliable hardware
 
-### Professional Level ($1,000+)
+### Professional Level ($1,500+)
 
-- Solid premium woods
-- Handcrafted or high-end factory builds
+- Premium tonewoods
+- Advanced pickup systems
+- Handcrafted or custom-shop models
 
 ## Factors That Affect Price
 
 #### Key Influences
 
 - Brand reputation
+- Quality of electronics
 - Materials used
 - Country of manufacture
-- Type of [[Acoustic/construction]]
+- Type of pickup system
 
-#### Most expensive Acoustic guitar:
-![Eric Clapton Martin 000-42](https://rarest.org/wp-content/uploads/2022/04/Martin-000-42.jpg "Most Expensive Acoustic")
-*Eric Clapton's 1939 Martin 000-42*
+#### Professional Example:
+![Taylor k24ce](https://fiddlershop.com/cdn/shop/products/2_07b10a30-76da-4ebb-826f-ee4980921764.jpg "Taylor k24ce")
+*Premium acoustic-electric guitars can cost several thousand dollars.*
+
 ## Example Pricing Overview
 
-> Higher price does not always guarantee better sound, but it usually reflects better craftsmanship, materials, and consistency in build quality. Sometimes a specific artist or owner will demand a higher price for used Acoustic Guitars.
+> Higher prices often reflect better tonewoods, electronics, and craftsmanship. However, proper [[Acoustic-Electric/maintenance|maintenance]] can help even affordable models perform reliably for many years.

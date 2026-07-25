@@ -1,27 +1,34 @@
-# Materials Used in Acoustic Guitars
+# Materials Used in Acoustic-Electric Guitars
 
-Guitars are built from a combination of woods and manufactured components that directly affect look, tone, weight, playability, and durability. Musicians will often pick an [[Acoustic/index|Acoustic]] guitar specifically because specific [[Acoustic/materials]] produce a better sound for the [[Acoustic/style]] they need.
+[[Acoustic-Electric/index|Acoustic-Electric]] guitars are built from a combination of woods, manufactured components, and electronics that affect look, tone, weight, and durability. Musicians often choose an [[Acoustic-Electric/index|Acoustic-Electric]] guitar because specific [[Acoustic-Electric/materials|materials]] and electronics provide flexibility for different [[Acoustic-Electric/style|styles]] of music.
 
 ## Common Tonewoods
 
-Different woods shape the sound of [[Acoustic/index|Acoustic]] guitars in noticeable ways.
+Different woods shape the sound of acoustic-electric guitars in noticeable ways.
 
-- Spruce – bright and clear tone, commonly used for tops
+- Spruce – bright and clear tone
 - Mahogany – warm and balanced sound
-- Maple – bright with strong attack and sustain
-- Rosewood – rich overtones and deep bass response
+- Maple – bright and articulate response
+- Rosewood – rich overtones and strong bass response
 
-### Choices for Tops
+### Electronic Components
 
-- Solid wood tops for resonance
-- Laminated [[Acoustic/construction]] for durability, lower [[Acoustic/maintenance]], and [[Acoustic/price]] reduction
+Acoustic-electric guitars include:
+
+- Piezo pickups
+- Internal microphones (some models)
+- Preamp systems
+- Wiring
+- Output jacks
 
 #### Example:
-![Gibson Hummingbird](https://guitargeargiveaway.co.uk/wp-content/uploads/2025/07/Gibson-Hummingbird-Acoustic-Guitar-in-Antique-Natural-03-scaled.jpg "Gibson Hummingbird")
-*Gibson Hummingbird*
-## Choose wisely
+![Taylor 114ce](https://cdn11.bigcommerce.com/s-ikl27/products/19041/images/444463/taylor-114ce-s-2205223024-frontleft-2023__91258.1689661435.380.380.png?c=3 "Taylor 114ce")
+*Taylors are among the most popular acoustic-electric guitars.*
 
-> The choice of wood affects not just how a guitar looks, but how it vibrates and projects sound. Even small changes in materials can significantly change tone and sustain.
+## Choose Wisely
 
-#### Here is an article from Gibson Guitars about *Tonewoods*:
-![[Tonewood_ A Guitar Player’s Guide  - Gibson Gazette.pdf]]
+> Material selection affects both acoustic tone and amplified tone. The combination of traditional woods and electronics makes acoustic-electric guitars highly versatile. Material choices can also influence [[Acoustic-Electric/construction|construction]], [[Acoustic-Electric/maintenance|maintenance]], and [[Acoustic-Electric/price|price]].
+
+#### Common Signal Path
+
+Strings → Pickup → Preamp → Output Jack → Amplifier
