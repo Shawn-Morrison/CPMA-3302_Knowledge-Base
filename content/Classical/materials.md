@@ -1,5 +1,5 @@
 ---
-title: Materials in Classical Guitars
+title: Materials used in Classical Guitars
 date: 2026-07-25
 tags:
   - acoustic
@@ -10,7 +10,6 @@ tags:
   - spruce
   - mahogony
   - rosewood
-  - Cedar
 ---
 # Materials Used in Classical Guitars
 
