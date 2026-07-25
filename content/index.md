@@ -12,6 +12,12 @@ This knowledge base is about guitars. It showcases the many different types of g
 * [[Classical/index|Classical]]
 * [[Semi-Hollow/index|Semi-Hollow]]
 
+**References:**
+[[references|Reference Page]]
+
+**About:**
+[[about|About Page]]
+
 ***Looking for Assignment 02?***
 [[org-system-analysis]]
 
