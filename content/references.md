@@ -6,7 +6,7 @@ date: 2026-07-26
 
 tags: [references, supporting, documentation]
 ---
-This page is a reference page for all resources used that are note self hosted inside this content folder. These resources are in no particular order, they belong to their owners, and are only referenced for educational purposes.
+This page is a reference page for all resources used that are note self hosted inside this content folder. These [[index|Guitar Category]] resources are in no particular order, they belong to their owners, and are only referenced for educational purposes.
 ## Photos:
 
 * https://tonetopics.com/wp-content/uploads/2021/03/copy-of-copy-of-copy-of-copy-o-5.jpg
