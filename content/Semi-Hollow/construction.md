@@ -1,0 +1,33 @@
+# Acoustic Guitar Construction
+
+[[Acoustic/index|Acoustic]] Guitar construction refers to how the [[Acoustic/materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[Acoustic/style]] of music the guitar is used for. However, construction is not the only factor in [[Acoustic/price]].
+
+## Main Parts of an Acoustic Guitar
+
+A standard acoustic guitar is built from several core components:
+
+- Headstock
+- Neck
+- Fretboard
+- Body
+- Bridge
+
+## Specifics for Acoustic Guitars:
+
+- Hollow body design (some may have a "cutaway")
+- Sound hole for resonance
+- Bracing system inside the top
+
+#### Cutaway Example:
+![Cutaway](https://tonetopics.com/wp-content/uploads/2021/03/copy-of-copy-of-copy-of-copy-o-5.jpg "Cutaway vs Non Cutaway")
+*Cutaways help musicians get access to higher notes more easily*
+## Assembly Process
+
+#### Step-by-step Overview
+
+1. Wood selection and cutting
+2. Body shaping and routing
+3. Neck carving and fret installation
+4. Finishing and painting
+
+> Guitar construction is a blend of craftsmanship and precision engineering, where small adjustments in build can dramatically change playability and tone. Construction can play a role in the [[Acoustic/maintenance]] of a guitar as well.
