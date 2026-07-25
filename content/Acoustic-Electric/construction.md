@@ -1,6 +1,6 @@
-# Acoustic Guitar Construction
+# Acoustic-Electric Guitar Construction
 
-[[Acoustic/index|Acoustic]] Guitar construction refers to how the [[Acoustic/materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[Acoustic/style]] of music the guitar is used for. However, construction is not the only factor in [[Acoustic/price]].
+[[Acoustic-Electric/index|Acoustic-Electric]] Guitar construction refers to how the [[Acoustic-Electric/materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[Acoustic/style]] of music the guitar is used for. However, construction is not the only factor in [[Acoustic/price]].
 
 ## Main Parts of an Acoustic Guitar
 
