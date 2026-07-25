@@ -1,3 +1,14 @@
+---
+title: Pricing of Classical Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - cost
+  - money
+  - value
+---
 # Classical Guitar Pricing
 
 [[Classical/index|Classical]] Guitar prices vary depending on [[Classical/materials|materials]], craftsmanship, and [[Classical/construction|construction]]. Hand-built instruments are particularly valued by professional performers and often command a higher [[Classical/price|price]].

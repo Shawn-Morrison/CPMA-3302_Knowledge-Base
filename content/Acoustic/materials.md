@@ -1,10 +1,18 @@
 ---
-
-title: "Materials in Acoustic Guitars"
-
+title: Materials in Acoustic Guitars
 date: 2026-07-25
-
-tags: [acoustic, guitar, strings, materials]
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - materials
+  - maple
+  - rosewood
+  - spruce
+  - tonewoods
+  - tone
+  - wood
+  - mahogony
 ---
 # Materials Used in Acoustic Guitars
 

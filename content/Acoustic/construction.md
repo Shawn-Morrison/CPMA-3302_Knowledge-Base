@@ -6,6 +6,9 @@ tags:
   - guitar
   - strings
   - construction
+  - live
+  - intimate
+  - quiet
 ---
 
 # Acoustic Guitar Construction

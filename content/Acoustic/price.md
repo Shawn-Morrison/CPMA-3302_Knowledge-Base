@@ -1,10 +1,13 @@
 ---
-
-title: "Price of Acoustic Guitars"
-
+title: Pricing of Acoustic Guitars
 date: 2026-07-25
-
-tags: [acoustic, guitar, strings, price]
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - price
+  - cost
+  - value
 ---
 # Acoustic Guitar Pricing
 

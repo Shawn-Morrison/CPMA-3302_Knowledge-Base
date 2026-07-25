@@ -1,3 +1,14 @@
+---
+title: Construction of Classical Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - concert
+  - live
+  - artist
+---
 # Classical Guitar Construction
 
 [[Classical/index|Classical]] Guitar construction refers to how the [[Classical/materials|materials]] come together, and the instrument is designed, assembled, and finished. Construction choices can influence the [[Classical/style|style]] of music played, as well as the overall [[Classical/price|price]].

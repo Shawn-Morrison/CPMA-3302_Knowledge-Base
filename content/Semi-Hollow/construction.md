@@ -1,3 +1,23 @@
+---
+title: Construction of Semi-Hollow Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - electric
+  - amp
+  - amplified
+  - jack
+  - concert
+  - live
+  - jazz
+  - soul
+  - f-hole
+  - blues
+  - construction
+  - rhythm
+---
 # Semi-Hollow Guitar Construction
 
 [[Semi-Hollow/index|Semi-Hollow]] Guitar construction refers to how the [[Semi-Hollow/materials|materials]] come together, and the instrument is designed, assembled, and finished. Construction choices can influence the [[Semi-Hollow/style|style]] of music played, as well as the overall [[Semi-Hollow/price|price]].

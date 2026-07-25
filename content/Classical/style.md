@@ -1,3 +1,15 @@
+---
+title: Style of Music Using Classical Guitars
+date: 2026-07-25
+tags:
+  - guitar
+  - strings
+  - acoustic
+  - concert
+  - classical
+  - intimate
+  - orchestra
+---
 # Classical Guitar Styles of Music
 
 [[Classical/index|Classical]] guitars are known for their warm, mellow tone and expressive fingerstyle techniques. Because of their unique [[Classical/construction|construction]] and traditional [[Classical/materials|materials]], they are commonly associated with several distinctive musical genres.

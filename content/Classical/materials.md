@@ -1,3 +1,17 @@
+---
+title: Materials in Classical Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - wood
+  - tonewoods
+  - spruce
+  - mahogony
+  - rosewood
+  - Cedar
+---
 # Materials Used in Classical Guitars
 
 [[Classical/index|Classical]] guitars are built from a combination of carefully selected woods that affect look, tone, weight, and durability. Musicians often choose a [[Classical/index|Classical]] guitar because specific [[Classical/materials|materials]] produce the warm and balanced sound required for many [[Classical/style|styles]] of music.

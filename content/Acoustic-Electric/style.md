@@ -1,3 +1,20 @@
+---
+title: Style of Music Using Acoustic-Electric Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - electric
+  - amp
+  - amplified
+  - jack
+  - concert
+  - live
+  - style
+  - music
+  - artist
+---
 # Acoustic-Electric Styles of Music
 
 [[Acoustic-Electric/index|Acoustic-Electric]] guitars combine the natural sound of an acoustic guitar with the convenience of amplification. Because of their unique [[Acoustic-Electric/construction|construction]] and electronic [[Acoustic-Electric/materials|components]], they are commonly used in live performances and recording environments.

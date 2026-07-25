@@ -1,3 +1,12 @@
+---
+
+title: "Style of Music Using Electric Guitars"
+
+date: 2026-07-25
+
+tags: [guitar, strings, electric, amp, amplified, jack, concert, live]
+
+---
 # Styles of Music that use Electric Guitars
 
 [[Electric/index|Electric]] guitars are among the most versatile instruments in modern music. The design of the [[Electric/construction|construction]], [[Electric/materials|materials]], and amplification system allows musicians to create a wide range of sounds.

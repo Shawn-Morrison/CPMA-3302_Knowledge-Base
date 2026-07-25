@@ -1,3 +1,16 @@
+---
+title: Materials of Electric Guitars
+date: 2026-07-25
+tags:
+  - guitar
+  - strings
+  - electric
+  - alder
+  - ash
+  - mahogony
+  - maple
+  - materials
+---
 # Materials Used in Electric Guitars
 
 [[Electric/index|Electric]] guitars are built from a combination of woods, metals, and electronic components that affect tone, weight, and durability. Musicians often select an [[Electric/index|Electric]] guitar because certain [[Electric/materials|materials]] better suit their preferred [[Electric/style|style]].

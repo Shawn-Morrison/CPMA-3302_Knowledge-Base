@@ -1,3 +1,13 @@
+---
+title: Maintenance of Classical Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - care
+  - humidity
+---
 # Classical Guitar Maintenance
 
 Proper maintenance keeps [[Classical/index|Classical]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[Classical/construction|construction]], [[Classical/materials|materials]], and the [[Classical/style|style]] of music being played.

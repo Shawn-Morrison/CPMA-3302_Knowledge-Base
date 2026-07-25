@@ -1,3 +1,17 @@
+---
+title: Maintenance of Semi-Hollow Guitars
+date: 2026-07-26
+tags:
+  - acoustic
+  - electric
+  - guitar
+  - care
+  - blues
+  - f-hole
+  - humidity
+  - jazz
+  - rhythm
+---
 # Semi-Hollow Guitar Maintenance
 
 Proper maintenance keeps [[Semi-Hollow/index|Semi-Hollow]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[Semi-Hollow/construction|construction]], [[Semi-Hollow/materials|materials]], and the [[Semi-Hollow/style|style]] of music being played.

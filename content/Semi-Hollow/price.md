@@ -1,3 +1,18 @@
+---
+title: Pricing of Semi-Hollow Guitars
+date: 2026-07-26
+tags:
+  - acoustic
+  - electric
+  - guitar
+  - artist
+  - blues
+  - concert
+  - cost
+  - value
+  - jazz
+  - soul
+---
 # Semi-Hollow Guitar Pricing
 
 [[Semi-Hollow/index|Semi-Hollow]] Guitar prices vary depending on [[Semi-Hollow/materials|materials]], electronics, and [[Semi-Hollow/construction|construction]]. Semi-hollow guitars often cost more than entry-level solid-body electric guitars because of their more complex construction.

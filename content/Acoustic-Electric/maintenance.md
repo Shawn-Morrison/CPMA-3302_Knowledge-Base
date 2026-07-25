@@ -1,3 +1,12 @@
+---
+
+title: "Maintenance of Acoustic-Electric Guitars"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings, electric, amp, amplified, jack, concert, live, maintenance, care, humidity]
+
+---
 # Acoustic-Electric Guitar Maintenance
 
 Proper maintenance keeps [[Acoustic-Electric/index|Acoustic-Electric]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[Acoustic-Electric/construction|construction]], [[Acoustic-Electric/materials|materials]], and the [[Acoustic-Electric/style|style]] of music being played.

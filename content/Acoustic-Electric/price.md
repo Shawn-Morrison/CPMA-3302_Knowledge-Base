@@ -1,3 +1,21 @@
+---
+title: Pricing of Acoustic-Electric Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - electric
+  - amp
+  - amplified
+  - jack
+  - concert
+  - live
+  - cost
+  - price
+  - money
+  - value
+---
 # Acoustic-Electric Guitar Pricing
 
 [[Acoustic-Electric/index|Acoustic-Electric]] Guitar prices vary depending on [[Acoustic-Electric/materials|materials]], onboard electronics, and [[Acoustic-Electric/construction|construction]]. Additional electronics generally increase the [[Acoustic-Electric/price|price]] compared to a similar acoustic guitar.

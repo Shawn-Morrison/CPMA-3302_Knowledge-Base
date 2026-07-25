@@ -1,5 +1,11 @@
 ---
-title: Electric Guitars
+
+title: "Electric Guitar Category Index Page"
+
+date: 2026-07-25
+
+tags: [guitar, strings, electric, amp, amplified, jack, concert, live]
+
 ---
 ## The Electric Guitar category index page
 ## Related Categories

@@ -1,3 +1,18 @@
+---
+title: Maintenance of Electric Guitars
+date: 2026-07-25
+tags:
+  - guitar
+  - strings
+  - electric
+  - amp
+  - amplified
+  - jack
+  - concert
+  - live
+  - humidity
+  - care
+---
 # Electric Guitar Maintenance
 
 Proper maintenance keeps [[Electric/index|Electric]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[Electric/construction|construction]], [[Electric/materials|materials]], and the type of [[Electric/style|style]] being played.

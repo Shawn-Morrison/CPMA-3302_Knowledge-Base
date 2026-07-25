@@ -1,5 +1,21 @@
 ---
-title: Semi-Hollow Guitars
+title: Semi-Hollow Guitar Category Index Page
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - electric
+  - amp
+  - amplified
+  - jack
+  - concert
+  - live
+  - jazz
+  - soul
+  - blues
+  - f-hole
+  - rhythm
 ---
 ## The Semi-Hollow Guitar category index page
 

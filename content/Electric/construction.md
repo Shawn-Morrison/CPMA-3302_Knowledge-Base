@@ -1,3 +1,17 @@
+---
+title: Construction of Electric Guitars
+date: 2026-07-25
+tags:
+  - guitar
+  - strings
+  - electric
+  - amp
+  - amplified
+  - jack
+  - concert
+  - live
+  - construction
+---
 # Electric Guitar Construction
 
 [[Electric/index|Electric]] Guitar construction refers to how the [[Electric/materials|materials]] come together, and the instrument is designed, assembled, and finished. Construction choices can influence the [[Electric/style|style]] of music played, as well as the overall [[Electric/price|price]].

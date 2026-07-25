@@ -1,5 +1,11 @@
 ---
-title: Classical Guitars
+
+title: "Classical Guitar Category Index Page"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings, classical, live, concert, orchestra, warm]
+
 ---
 ## The Classical Guitar category index page
 

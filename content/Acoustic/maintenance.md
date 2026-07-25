@@ -1,11 +1,13 @@
 ---
-
-title: "Maintenance of Acoustic Guitars"
-
+title: Maintenance of Acoustic Guitars
 date: 2026-07-25
-
-tags: [acoustic, guitar, strings, maintenance]
-
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - maintenance
+  - humidity
+  - care
 ---
 # Acoustic Guitar Maintenance
 

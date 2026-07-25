@@ -1,3 +1,12 @@
+---
+
+title: "Construction of Acoustic-Electric Guitars"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings, electric, amp, amplified, jack, concert, live]
+
+---
 # Acoustic-Electric Guitar Construction
 
 [[Acoustic-Electric/index|Acoustic-Electric]] Guitar construction refers to how the [[Acoustic-Electric/materials|materials]] come together, and the instrument is designed, assembled, and finished. Construction choices can influence the [[Acoustic-Electric/style|style]] of music played, as well as the overall [[Acoustic-Electric/price|price]].

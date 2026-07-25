@@ -1,5 +1,11 @@
 ---
-title: Acoustic-Electric Guitars
+
+title: "Acoustic-Electric Category Index Page"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings, electric, amplified,amp]
+
 ---
 ## The Acoustic-Electric Guitar category index page
 

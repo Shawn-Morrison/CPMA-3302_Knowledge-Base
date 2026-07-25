@@ -1,3 +1,19 @@
+---
+title: Materials of Acoustic-Electric Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - electric
+  - tone
+  - tonewoods
+  - mahogony
+  - maple
+  - wood
+  - rosewood
+  - spruce
+---
 # Materials Used in Acoustic-Electric Guitars
 
 [[Acoustic-Electric/index|Acoustic-Electric]] guitars are built from a combination of woods, manufactured components, and electronics that affect look, tone, weight, and durability. Musicians often choose an [[Acoustic-Electric/index|Acoustic-Electric]] guitar because specific [[Acoustic-Electric/materials|materials]] and electronics provide flexibility for different [[Acoustic-Electric/style|styles]] of music.

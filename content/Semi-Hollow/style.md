@@ -1,3 +1,19 @@
+---
+title: Style of Music Using Semi-Hollow Guitars
+date: 2026-07-26
+tags:
+  - acoustic
+  - electric
+  - guitar
+  - artist
+  - blues
+  - concert
+  - jazz
+  - live
+  - rhythm
+  - soul
+  - style
+---
 # Semi-Hollow Styles of Music
 
 [[Semi-Hollow/index|Semi-Hollow]] guitars are known for blending the warmth of an acoustic guitar with the versatility of an electric guitar. Their unique [[Semi-Hollow/construction|construction]] and carefully selected [[Semi-Hollow/materials|materials]] make them popular across several genres.

@@ -1,3 +1,18 @@
+---
+title: Materials of Semi-Hollow Guitars
+date: 2026-07-26
+tags:
+  - acoustic
+  - electric
+  - guitar
+  - blues
+  - f-hole
+  - jazz
+  - mahogony
+  - maple
+  - rosewood
+  - ebony
+---
 # Materials Used in Semi-Hollow Guitars
 
 Semi-hollow guitars are built from a combination of woods, electronics, and hardware that affect look, tone, weight, and durability. Musicians often choose a [[Semi-Hollow/index|Semi-Hollow]] guitar because specific [[Semi-Hollow/materials|materials]] help produce the warm, resonant sound preferred for certain [[Semi-Hollow/style|styles]] of music.

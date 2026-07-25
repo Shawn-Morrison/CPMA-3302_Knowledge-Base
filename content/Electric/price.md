@@ -1,3 +1,18 @@
+---
+title: Pricing of Electric Guitars
+date: 2026-07-25
+tags:
+  - guitar
+  - strings
+  - electric
+  - amp
+  - amplified
+  - jack
+  - concert
+  - live
+  - value
+  - price
+---
 # Electric Guitar Pricing
 
 [[Electric/index|Electric]] Guitar prices vary depending on [[Electric/materials|materials]] (including quality of the electronics) and [[Electric/construction|construction]]. Certain pickups, artist models, and custom finishes can significantly increase [[Electric/price|price]].
