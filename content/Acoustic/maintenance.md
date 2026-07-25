@@ -1,3 +1,12 @@
+---
+
+title: "Maintenance of Acoustic Guitars"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings, maintenance]
+
+---
 # Acoustic Guitar Maintenance
 
 Proper maintenance keeps [[Acoustic/index|Acoustic]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[Acoustic/construction]], [[Acoustic/materials]] or even the [[Acoustic/style]] of music played.

@@ -1,3 +1,11 @@
+---
+
+title: "Materials in Acoustic Guitars"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings, materials]
+---
 # Materials Used in Acoustic Guitars
 
 Guitars are built from a combination of woods and manufactured components that directly affect look, tone, weight, playability, and durability. Musicians will often pick an [[Acoustic/index|Acoustic]] guitar specifically because specific [[Acoustic/materials]] produce a better sound for the [[Acoustic/style]] they need.

@@ -1,5 +1,10 @@
 ---
-title: Acoustic Guitars
+
+title: "Acoustic Category Index Page"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings]
 ---
 ## The Acoustic Guitar category index page
 ## Related Categories:

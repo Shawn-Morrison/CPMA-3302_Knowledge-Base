@@ -1,3 +1,13 @@
+---
+title: Construction of Acoustic Guitars
+date: 2026-07-25
+tags:
+  - acoustic
+  - guitar
+  - strings
+  - construction
+---
+
 # Acoustic Guitar Construction
 
 [[Acoustic/index|Acoustic]] Guitar construction refers to how the [[Acoustic/materials]] come together, and the instrument is designed, assembled, and finished. Some may be constructed differently depending on the [[Acoustic/style]] of music the guitar is used for. However, construction is not the only factor in [[Acoustic/price]].

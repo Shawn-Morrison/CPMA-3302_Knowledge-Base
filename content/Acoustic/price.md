@@ -1,3 +1,11 @@
+---
+
+title: "Price of Acoustic Guitars"
+
+date: 2026-07-25
+
+tags: [acoustic, guitar, strings, price]
+---
 # Acoustic Guitar Pricing
 
 [[Acoustic/index|Acoustic]] Guitar prices vary widely depending on [[Acoustic/materials]], brand, and [[Acoustic/construction]] build quality. An artist may choose a more expensive option because of the [[Acoustic/style]] of music. Cost has very little to do with [[Acoustic/maintenance]], although with less expensive models there may only be a marginal difference in performance when maintained.
