@@ -1,27 +1,30 @@
-# Materials Used in Acoustic Guitars
+# Materials Used in Electric Guitars
 
-Guitars are built from a combination of woods and manufactured components that directly affect look, tone, weight, playability, and durability. Musicians will often pick an [[Acoustic/index|Acoustic]] guitar specifically because specific [[Acoustic/materials]] produce a better sound for the [[Acoustic/style]] they need.
+Electric guitars are built from a combination of woods, metals, and electronic components that affect tone, weight, and durability. Musicians often select an [[Electric/index|Electric]] guitar because certain [[Electric/materials|materials]] better suit their preferred [[Electric/style|style]].
 
-## Common Tonewoods
+## Common Body Woods
 
-Different woods shape the sound of [[Acoustic/index|Acoustic]] guitars in noticeable ways.
+Different woods shape the sound and feel of electric guitars.
 
-- Spruce – bright and clear tone, commonly used for tops
-- Mahogany – warm and balanced sound
-- Maple – bright with strong attack and sustain
-- Rosewood – rich overtones and deep bass response
+- Alder – balanced tone
+- Ash – bright and resonant
+- Mahogany – warm and full
+- Maple – bright and articulate
 
-### Choices for Tops
+### Electronic Components
 
-- Solid wood tops for resonance
-- Laminated [[Acoustic/construction]] for durability, lower [[Acoustic/maintenance]], and [[Acoustic/price]] reduction
+Electric guitars include:
+
+- Magnetic pickups
+- Wiring
+- Potentiometers
+- Output jacks
+- Switches
 
 #### Example:
-![Gibson Hummingbird](https://guitargeargiveaway.co.uk/wp-content/uploads/2025/07/Gibson-Hummingbird-Acoustic-Guitar-in-Antique-Natural-03-scaled.jpg "Gibson Hummingbird")
-*Gibson Hummingbird*
-## Choose wisely
+![Fender Stratocaster](https://tse3.mm.bing.net/th/id/OIP.9UjHrPF85a_BRC8cT-UwmgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3 "Fender Stratocaster")
+*The Fender Stratocaster is one of the most recognizable electric guitars ever made.*
 
-> The choice of wood affects not just how a guitar looks, but how it vibrates and projects sound. Even small changes in materials can significantly change tone and sustain.
+## Choose Wisely
 
-#### Here is an article from Gibson Guitars about *Tonewoods*:
-![[Tonewood_ A Guitar Player’s Guide  - Gibson Gazette.pdf]]
+> Material selection affects both tone and weight. The electronics are equally important because they determine how the instrument interacts with amplifiers and effects. Material choices can also affect [[Electric/construction|construction]], [[Electric/maintenance|maintenance]], and [[Electric/price|price]].

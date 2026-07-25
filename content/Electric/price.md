@@ -1,37 +1,43 @@
-# Acoustic Guitar Pricing
+# Electric Guitar Pricing
 
-[[Acoustic/index|Acoustic]] Guitar prices vary widely depending on [[Acoustic/materials]], brand, and [[Acoustic/construction]] build quality. An artist may choose a more expensive option because of the [[Acoustic/style]] of music. Cost has very little to do with [[Acoustic/maintenance]], although with less expensive models there may only be a marginal difference in performance when maintained.
+[[Electric/index|Electric]] Guitar prices vary depending on [[Electric/materials|materials]] (including quality of the electronics) and [[Electric/construction|construction]]. Certain pickups, artist models, and custom finishes can significantly increase [[Electric/price|price]].
 
 ## Price Categories
 
-### Beginner Level ($100–$300)
+### Beginner Level ($150–$500)
 
-- Laminated woods
+- Entry-level electronics
+- Basic hardware
 - Mass-produced models
 
-### Intermediate Level ($300–$1,000)
+### Intermediate Level ($500–$1,500)
 
-- Better tonewoods
-- Improved hardware
-- More consistent build quality
+- Improved pickups
+- Better hardware
+- Higher-quality construction
 
-### Professional Level ($1,000+)
+### Professional Level ($1,500+)
 
-- Solid premium woods
-- Handcrafted or high-end factory builds
+- Premium tonewoods
+- High-end pickups
+- Handcrafted or custom-shop builds
 
 ## Factors That Affect Price
 
 #### Key Influences
 
 - Brand reputation
+- Electronics
 - Materials used
 - Country of manufacture
-- Type of [[Acoustic/construction]]
+- Artist endorsements
 
-#### Most expensive Acoustic guitar:
-![Eric Clapton Martin 000-42](https://rarest.org/wp-content/uploads/2022/04/Martin-000-42.jpg "Most Expensive Acoustic")
-*Eric Clapton's 1939 Martin 000-42*
+#### Most Expensive Electric Guitar:
+![David Gilmour Black Strat](https://guitar.com/wp-content/uploads/2025/10/Jim-Irsay-3@2000x1500-1068x801.jpg "David Gilmour Black Strat")
+*Pink Floyd - David Gilmour's "Black Strat" sold for over $14.5 million.*
+[Guitar.com Article]([David Gilmour’s Strat smashes record for most expensive guitar | Guitar.com](https://guitar.com/news/david-gilmour-black-strat-sold-auction-world-record/))
+
+
 ## Example Pricing Overview
 
-> Higher price does not always guarantee better sound, but it usually reflects better craftsmanship, materials, and consistency in build quality. Sometimes a specific artist or owner will demand a higher price for used Acoustic Guitars.
+> Higher prices often reflect premium electronics and craftsmanship. However, many affordable electric guitars can still deliver excellent performance with proper [[Electric/maintenance|maintentance]].
