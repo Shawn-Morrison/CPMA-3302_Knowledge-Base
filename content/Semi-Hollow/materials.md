@@ -1,27 +1,36 @@
-# Materials Used in Acoustic Guitars
+# Materials Used in Semi-Hollow Guitars
 
-Guitars are built from a combination of woods and manufactured components that directly affect look, tone, weight, playability, and durability. Musicians will often pick an [[Acoustic/index|Acoustic]] guitar specifically because specific [[Acoustic/materials]] produce a better sound for the [[Acoustic/style]] they need.
+Semi-hollow guitars are built from a combination of woods, electronics, and hardware that affect look, tone, weight, and durability. Musicians often choose a [[Semi-Hollow/index|Semi-Hollow]] guitar because specific [[Semi-Hollow/materials|materials]] help produce the warm, resonant sound preferred for certain [[Semi-Hollow/style|styles]] of music.
 
 ## Common Tonewoods
 
-Different woods shape the sound of [[Acoustic/index|Acoustic]] guitars in noticeable ways.
+Different woods shape the sound of semi-hollow guitars in noticeable ways.
 
-- Spruce – bright and clear tone, commonly used for tops
+- Maple – bright tone and strong sustain
 - Mahogany – warm and balanced sound
-- Maple – bright with strong attack and sustain
-- Rosewood – rich overtones and deep bass response
+- Rosewood – smooth feel and rich overtones
+- Ebony – fast response and durability
 
-### Choices for Tops
+### Electronic Components
 
-- Solid wood tops for resonance
-- Laminated [[Acoustic/construction]] for durability, lower [[Acoustic/maintenance]], and [[Acoustic/price]] reduction
+Semi-hollow guitars commonly include:
+
+- Humbucker pickups
+- Wiring harnesses
+- Volume controls
+- Tone controls
+- Output jacks
 
 #### Example:
-![Gibson Hummingbird](https://guitargeargiveaway.co.uk/wp-content/uploads/2025/07/Gibson-Hummingbird-Acoustic-Guitar-in-Antique-Natural-03-scaled.jpg "Gibson Hummingbird")
-*Gibson Hummingbird*
-## Choose wisely
+![Gibson ES-335](https://tse2.mm.bing.net/th/id/OIP.VOx5_-6H5gDVr7m7yRzUhwHaDt?r=0&pid=ImgDet&w=474&h=237&rs=1&o=7&rm=3 "Gibson ES-335")
+*The Gibson ES-335 is one of the most famous semi-hollow guitars ever produced.*
 
-> The choice of wood affects not just how a guitar looks, but how it vibrates and projects sound. Even small changes in materials can significantly change tone and sustain.
+## Choose Wisely
 
-#### Here is an article from Gibson Guitars about *Tonewoods*:
-![[Tonewood_ A Guitar Player’s Guide  - Gibson Gazette.pdf]]
+> Material selection affects both acoustic resonance and amplified tone. The combination of wood choice and electronics gives semi-hollow guitars their unique sound. Material choices can also influence [[Semi-Hollow/construction|construction]], [[Semi-Hollow/maintenance|maintenance]], and [[Semi-Hollow/price|price]].
+
+#### Typical Material Combination
+
+- Maple body for resonance and brightness
+- Mahogany neck for warmth
+- Rosewood fretboard for smooth playability

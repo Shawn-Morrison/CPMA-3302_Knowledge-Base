@@ -1,6 +1,6 @@
-# Acoustic Guitar Maintenance
+# Semi-Hollow Guitar Maintenance
 
-Proper maintenance keeps [[Acoustic/index|Acoustic]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[Acoustic/construction]], [[Acoustic/materials]] or even the [[Acoustic/style]] of music played.
+Proper maintenance keeps [[Semi-Hollow/index|Semi-Hollow]] guitars sounding good and playing smoothly for years. Maintenance tasks may depend on [[Semi-Hollow/construction|construction]], [[Semi-Hollow/materials|materials]], and the [[Semi-Hollow/style|style]] of music being played.
 
 ## Basic Maintenance Tasks
 
@@ -8,33 +8,38 @@ Regular care helps prevent damage and wear.
 
 - Changing strings regularly
 - Cleaning the fretboard
-- Wiping down the body after use
+- Polishing hardware
 - Checking tuning stability
+- Inspecting electronics
 
-> Most guitar damage happens slowly over time, and consistent maintenance is far cheaper than major repairs or replacements. Some guitars have a high [[Acoustic/price]], so it's important to protect your investment.
+> Semi-hollow guitars contain both wooden resonance chambers and electronic components. Proper maintenance helps preserve performance and protect the guitar's [[Semi-Hollow/price|value]].
 
 ## Environmental Care
 
 ### Temperature and Humidity
 
-- Avoid extreme heat or cold
-- Keep humidity stable to prevent wood cracking
+- Avoid extreme temperatures
+- Maintain stable humidity levels
+- Protect the finish from excessive moisture
 
-![[Guitar-Case-Humidifier.jpg | 300]]
+![[Guitar-Case-Humidifier.jpg|300]]
 
 ### Storage Tips
 
-- Use a hard case for long-term storage
-- Use soft cases for quick traveling between locations
-- Avoid leaving guitars in direct sunlight
+- Use a hard case whenever possible
+- Avoid direct sunlight
+- Store in a climate-controlled environment
 
-#### Case examples:
-![Guitar Cases](https://www.sweetwater.com/insync/media/2019/04/hard-cases-vs-soft-cases-for-guitar.jpg "soft vs hard guitar cases")
-*Hard case on the left, Soft on the right*
+#### Case Example:
+![Guitar Case](https://www.sweetwater.com/insync/media/2019/04/hard-cases-vs-soft-cases-for-guitar.jpg "Guitar Cases")
+*Hard cases provide excellent protection for semi-hollow guitars during storage and transportation.*
+
 ## Common Repairs
 
 #### Typical Issues
 
 - String breakage
 - Fret wear
-- Loose tuning pegs
+- Loose output jack
+- Pickup failure
+- Cracks around binding or finish

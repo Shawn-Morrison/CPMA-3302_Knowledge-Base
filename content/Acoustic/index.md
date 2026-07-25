@@ -12,3 +12,5 @@ title: Acoustic Guitars
 
 Acoustic guitars have a rich sound which comes from string vibrations that are amplified by the hollow body of the guitar. They not require an electric amplification, like [[Electric/index|Electric]] guitars do. 
 
+***Learn more about other [[index|guitar types and typical uses]].***
+

@@ -11,4 +11,6 @@ title: Semi-Hollow Guitars
 * [[Semi-Hollow/price|Price]]
 * [[Semi-Hollow/style|Style]]
 
-Classical guitars are very similar to [[Acoustic/index|acoustic]] guitars. The traditional design emphasizes resonance, balance, and projection rather than amplification like [[Acoustic-Electric/index|acoustic-electric]] and [[Electric/index|electric]] guitars. Because of their warm, rich sound, they are a great choice for classical enthusiasts.
+Semi-hollow guitars also combine elements of both [[Acoustic/index|acoustic]] and [[Electric/index|electric]] guitar design. The hollow chambers add warmth and resonance, while the center block improves sustain and reduces unwanted feedback. If an artists wants more of an electric guitar feel, then they would choose a Semi-hollow over a traditional [[Acoustic-Electric/index|acoustic-electric]].
+
+***Learn more about other [[index|guitar types and typical uses]].***

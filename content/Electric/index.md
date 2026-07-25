@@ -12,3 +12,5 @@ title: Electric Guitars
 
 Unlike [[Acoustic/index|Acoustic]] guitars, these guitars do not rely on the guitar body for volume. Instead, electric guitars use magnetic devices called pickups which convert string vibrations into electrical signals which are then amplified by a powered amplifier. 
 
+***Learn more about other [[index|guitar types and typical uses]].***
+

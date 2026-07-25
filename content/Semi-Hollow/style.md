@@ -1,20 +1,28 @@
-# Styles of Music
-Acoustic guitars are very popular and are used for a variety of different styles of music. Most people have heard an [[Acoustic/index|Acoustic]] guitar before, even if they do not know they have heard it. They are known to be used in:
-* Country
-* Bluegrass
-* Soft Rock
-These instruments can be recorded using external microphones, unlike the close cousin the [[Acoustic-Electric/index|Acoustic-Electric]] guitar which has an internal microphone. 
+# Semi-Hollow Styles of Music
 
-They can also be used to create ***unplugged*** versions of really any type of music, with few exceptions. 
+[[Semi-Hollow/index|Semi-Hollow]] guitars are known for blending the warmth of an acoustic guitar with the versatility of an electric guitar. Their unique [[Semi-Hollow/construction|construction]] and carefully selected [[Semi-Hollow/materials|materials]] make them popular across several genres.
 
->Acoustic guitars can make you feel more connected because of their warm, rich sound. The sound comes from the [[Acoustic/construction]] and the [[Acoustic/materials]] they are made from. Often they are used to change the **VIBE** of a song, to contrast the fast paced or upbeat music to make a more impactful impression on the listener. Visually, Acoustic guitars can also change the way both the musician and the audience feel. Famously Willie Nelson had a guitar that appeared to lack proper [[Acoustic/maintenance]], but was actually just very, very sentimental to the artist.
+Common styles include:
 
-### Popular examples of standard use:
-* Take Me Home, Country Roads - **John Denver** - *Country*
-* Man of Constant Sorrow - **Allison Krauss & Union Station** - *Bluegrass*
-* Landslide - **Fleetwood Mac** - Soft Rock
+- Jazz
+- Blues
+- Rockabilly
+- Indie Rock
+- Classic Rock
 
-## Notable unplugged:
-* Hey Ya! - **Obadiah Parker** - *Hip-Hop*
-![Obadiah Parker: The Tip Jar Volume One](Parker.jpeg "Obadiah Parker: The Tip Jar Volume One") 
-*Obadiah Parker: the tip jar volume one - released in 2008*
+> Semi-hollow guitars offer a distinctive balance of resonance, sustain, and clarity. Their sound is often described as warmer and more open than a solid-body electric guitar while remaining resistant to feedback.
+
+### Popular Examples
+
+- The Thrill Is Gone – **B.B. King** – *Blues*
+- Rock This Town – **Stray Cats** – *Rockabilly*
+- Johnny B. Goode – **Chuck Berry** – *Rock and Roll*
+
+## Notable Semi-Hollow Performance
+
+- While My Guitar Gently Weeps – **Eric Clapton** (Live Versions) – *Rock*
+
+![B.B. King and Lucille](https://cdn.shopify.com/s/files/1/0608/3143/2944/files/IMG_2156_480x480.jpg?v=1678199147 "B.B. King and Lucille")
+*B.B. King's famous guitar "Lucille" was based on the Gibson ES-355 semi-hollow design.*
+
+> Semi-hollow guitars remain a favorite among musicians seeking warmth, sustain, and versatility. Players often consider [[Semi-Hollow/price|price]], [[Semi-Hollow/materials|materials]], and intended musical [[Semi-Hollow/style|style]] when selecting an instrument.

@@ -1,37 +1,41 @@
-# Acoustic Guitar Pricing
+# Semi-Hollow Guitar Pricing
 
-[[Acoustic/index|Acoustic]] Guitar prices vary widely depending on [[Acoustic/materials]], brand, and [[Acoustic/construction]] build quality. An artist may choose a more expensive option because of the [[Acoustic/style]] of music. Cost has very little to do with [[Acoustic/maintenance]], although with less expensive models there may only be a marginal difference in performance when maintained.
+[[Semi-Hollow/index|Semi-Hollow]] Guitar prices vary depending on [[Semi-Hollow/materials|materials]], electronics, and [[Semi-Hollow/construction|construction]]. Semi-hollow guitars often cost more than entry-level solid-body electric guitars because of their more complex construction.
 
 ## Price Categories
 
-### Beginner Level ($100–$300)
+### Beginner Level ($250–$700)
 
+- Entry-level electronics
 - Laminated woods
-- Mass-produced models
+- Factory-produced models
 
-### Intermediate Level ($300–$1,000)
+### Intermediate Level ($700–$2,000)
 
-- Better tonewoods
-- Improved hardware
-- More consistent build quality
+- Improved pickups
+- Better hardware
+- Higher-quality craftsmanship
 
-### Professional Level ($1,000+)
+### Professional Level ($2,000+)
 
-- Solid premium woods
-- Handcrafted or high-end factory builds
+- Premium tonewoods
+- High-end electronics
+- Handcrafted or custom-shop construction
 
 ## Factors That Affect Price
 
 #### Key Influences
 
 - Brand reputation
+- Electronics and pickups
 - Materials used
 - Country of manufacture
-- Type of [[Acoustic/construction]]
+- Complexity of construction
 
-#### Most expensive Acoustic guitar:
-![Eric Clapton Martin 000-42](https://rarest.org/wp-content/uploads/2022/04/Martin-000-42.jpg "Most Expensive Acoustic")
-*Eric Clapton's 1939 Martin 000-42*
+#### Premium Example:
+![Duesenberg Starplayer TV](https://www.stars-music.com/medias/duesenberg/starplayer-tv-hs-trem-rw-hd-3-167708.jpg "Duesenberg Starplayer TV")
+*Professional-grade Duesenberg Starplayer TV models can cost several thousand dollars.*
+
 ## Example Pricing Overview
 
-> Higher price does not always guarantee better sound, but it usually reflects better craftsmanship, materials, and consistency in build quality. Sometimes a specific artist or owner will demand a higher price for used Acoustic Guitars.
+> Higher prices often reflect better craftsmanship, premium materials, and superior electronics. However, proper [[Semi-Hollow/maintenance|maintenance]] can help protect the value of any semi-hollow guitar regardless of price range.
